@@ -1,8 +1,4 @@
 'use strict';
-/*
-function f1(x) {return x * 2};
-function f2(x) {return x + 2};
-function f3(x) {return Math.pow(x, 2)}; */
 
 describe('chainer', () => {
   const { chainer } = require('./chainer');
